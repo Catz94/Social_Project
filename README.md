@@ -1,1 +1,3 @@
 # Social_Project
+
+exe download link: sha256:0315824855e039c0940107560d353e75eb77d13d9fa92ebab0fb300b9a7b3b8f
